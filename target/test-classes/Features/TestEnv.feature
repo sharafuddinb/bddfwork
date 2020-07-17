@@ -12,7 +12,7 @@ Scenario: Register Account for new User
 	
 	# we will use pip | |
 	|firstName|LastName|E-mail|Telephone|password|
-	|Zuabir|Ahmadi|zubair221@test.com|5714254582|zubairahmadi|
+	|Zuabir|Ahmadi|zubair2231@test.com|57142354582|zubairahmadi|
 	And User select 'yes' for Subscribe 
 	And User click privacy and policy button
 	And User click Continue button
